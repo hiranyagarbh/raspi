@@ -1,0 +1,1 @@
+raspivid -o - -t 20000 -hf -fps 60
